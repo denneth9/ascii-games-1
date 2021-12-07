@@ -202,7 +202,7 @@ namespace hangman
             string row = "";
             if (command == "")
             {
-                Console.WriteLine("Restart or exit: ");
+                Console.Write("Restart or exit: ");
                 row = Console.ReadLine();
                 row = row.ToLower();
             }

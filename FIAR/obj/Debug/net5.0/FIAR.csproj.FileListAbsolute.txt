@@ -1,0 +1,16 @@
+C:\Users\denne\source\repos\FIAR\FIAR\bin\Debug\net5.0\FIAR.exe
+C:\Users\denne\source\repos\FIAR\FIAR\bin\Debug\net5.0\FIAR.deps.json
+C:\Users\denne\source\repos\FIAR\FIAR\bin\Debug\net5.0\FIAR.runtimeconfig.json
+C:\Users\denne\source\repos\FIAR\FIAR\bin\Debug\net5.0\FIAR.runtimeconfig.dev.json
+C:\Users\denne\source\repos\FIAR\FIAR\bin\Debug\net5.0\FIAR.dll
+C:\Users\denne\source\repos\FIAR\FIAR\bin\Debug\net5.0\ref\FIAR.dll
+C:\Users\denne\source\repos\FIAR\FIAR\bin\Debug\net5.0\FIAR.pdb
+C:\Users\denne\source\repos\FIAR\FIAR\obj\Debug\net5.0\FIAR.csproj.AssemblyReference.cache
+C:\Users\denne\source\repos\FIAR\FIAR\obj\Debug\net5.0\FIAR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denne\source\repos\FIAR\FIAR\obj\Debug\net5.0\FIAR.AssemblyInfoInputs.cache
+C:\Users\denne\source\repos\FIAR\FIAR\obj\Debug\net5.0\FIAR.AssemblyInfo.cs
+C:\Users\denne\source\repos\FIAR\FIAR\obj\Debug\net5.0\FIAR.csproj.CoreCompileInputs.cache
+C:\Users\denne\source\repos\FIAR\FIAR\obj\Debug\net5.0\FIAR.dll
+C:\Users\denne\source\repos\FIAR\FIAR\obj\Debug\net5.0\ref\FIAR.dll
+C:\Users\denne\source\repos\FIAR\FIAR\obj\Debug\net5.0\FIAR.pdb
+C:\Users\denne\source\repos\FIAR\FIAR\obj\Debug\net5.0\FIAR.genruntimeconfig.cache

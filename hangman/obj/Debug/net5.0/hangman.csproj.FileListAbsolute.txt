@@ -1,0 +1,16 @@
+C:\Users\denne\source\repos\hangman\hangman\bin\Debug\net5.0\hangman.exe
+C:\Users\denne\source\repos\hangman\hangman\bin\Debug\net5.0\hangman.deps.json
+C:\Users\denne\source\repos\hangman\hangman\bin\Debug\net5.0\hangman.runtimeconfig.json
+C:\Users\denne\source\repos\hangman\hangman\bin\Debug\net5.0\hangman.runtimeconfig.dev.json
+C:\Users\denne\source\repos\hangman\hangman\bin\Debug\net5.0\hangman.dll
+C:\Users\denne\source\repos\hangman\hangman\bin\Debug\net5.0\ref\hangman.dll
+C:\Users\denne\source\repos\hangman\hangman\bin\Debug\net5.0\hangman.pdb
+C:\Users\denne\source\repos\hangman\hangman\obj\Debug\net5.0\hangman.csproj.AssemblyReference.cache
+C:\Users\denne\source\repos\hangman\hangman\obj\Debug\net5.0\hangman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denne\source\repos\hangman\hangman\obj\Debug\net5.0\hangman.AssemblyInfoInputs.cache
+C:\Users\denne\source\repos\hangman\hangman\obj\Debug\net5.0\hangman.AssemblyInfo.cs
+C:\Users\denne\source\repos\hangman\hangman\obj\Debug\net5.0\hangman.csproj.CoreCompileInputs.cache
+C:\Users\denne\source\repos\hangman\hangman\obj\Debug\net5.0\hangman.dll
+C:\Users\denne\source\repos\hangman\hangman\obj\Debug\net5.0\ref\hangman.dll
+C:\Users\denne\source\repos\hangman\hangman\obj\Debug\net5.0\hangman.pdb
+C:\Users\denne\source\repos\hangman\hangman\obj\Debug\net5.0\hangman.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\denne\source\repos\noughts_n_crosses\noughts_n_crosses\bin\Debug\net5.0\noughts_n_crosses.exe
+C:\Users\denne\source\repos\noughts_n_crosses\noughts_n_crosses\bin\Debug\net5.0\noughts_n_crosses.deps.json
+C:\Users\denne\source\repos\noughts_n_crosses\noughts_n_crosses\bin\Debug\net5.0\noughts_n_crosses.runtimeconfig.json
+C:\Users\denne\source\repos\noughts_n_crosses\noughts_n_crosses\bin\Debug\net5.0\noughts_n_crosses.runtimeconfig.dev.json
+C:\Users\denne\source\repos\noughts_n_crosses\noughts_n_crosses\bin\Debug\net5.0\noughts_n_crosses.dll
+C:\Users\denne\source\repos\noughts_n_crosses\noughts_n_crosses\bin\Debug\net5.0\ref\noughts_n_crosses.dll
+C:\Users\denne\source\repos\noughts_n_crosses\noughts_n_crosses\bin\Debug\net5.0\noughts_n_crosses.pdb
+C:\Users\denne\source\repos\noughts_n_crosses\noughts_n_crosses\obj\Debug\net5.0\noughts_n_crosses.csproj.AssemblyReference.cache
+C:\Users\denne\source\repos\noughts_n_crosses\noughts_n_crosses\obj\Debug\net5.0\noughts_n_crosses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denne\source\repos\noughts_n_crosses\noughts_n_crosses\obj\Debug\net5.0\noughts_n_crosses.AssemblyInfoInputs.cache
+C:\Users\denne\source\repos\noughts_n_crosses\noughts_n_crosses\obj\Debug\net5.0\noughts_n_crosses.AssemblyInfo.cs
+C:\Users\denne\source\repos\noughts_n_crosses\noughts_n_crosses\obj\Debug\net5.0\noughts_n_crosses.csproj.CoreCompileInputs.cache
+C:\Users\denne\source\repos\noughts_n_crosses\noughts_n_crosses\obj\Debug\net5.0\noughts_n_crosses.dll
+C:\Users\denne\source\repos\noughts_n_crosses\noughts_n_crosses\obj\Debug\net5.0\ref\noughts_n_crosses.dll
+C:\Users\denne\source\repos\noughts_n_crosses\noughts_n_crosses\obj\Debug\net5.0\noughts_n_crosses.pdb
+C:\Users\denne\source\repos\noughts_n_crosses\noughts_n_crosses\obj\Debug\net5.0\noughts_n_crosses.genruntimeconfig.cache

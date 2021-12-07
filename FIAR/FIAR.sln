@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIAR", "FIAR\FIAR.csproj", "{F05D60DD-90E5-4A91-9E7D-B9DAEDC04E0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F05D60DD-90E5-4A91-9E7D-B9DAEDC04E0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F05D60DD-90E5-4A91-9E7D-B9DAEDC04E0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F05D60DD-90E5-4A91-9E7D-B9DAEDC04E0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F05D60DD-90E5-4A91-9E7D-B9DAEDC04E0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6375E5C6-FFC4-4AAD-AFC4-0DC3C8766E13}
+	EndGlobalSection
+EndGlobal

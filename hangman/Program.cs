@@ -22,9 +22,15 @@ namespace hangman
                 int invturns = 11 - turns;
                 string winning = "";
                 bool won = false;
+                bool first = true;
                 while (won == false)
                 {
                     draw(invturns, word);
+                    if (first)
+                    {
+                        first = !first;
+                        Console.WriteLine("Options: Letter, 'Restart', 'Exit'");
+                    }
                     string guessed = input(word);
                     if(guessed == "Incorrect")
                     {
@@ -99,6 +105,7 @@ namespace hangman
                     }
                     else
                     {
+                        askexit(guess);
                         Console.WriteLine("Invalid Input");
                     }
 
@@ -190,11 +197,19 @@ namespace hangman
             }
             return turns;
         }
-        public static void askexit()
+        public static void askexit(string command = "")
         {
-            Console.WriteLine("Restart or exit: ");
-            string row = Console.ReadLine();
-            row = row.ToLower();
+            string row = "";
+            if (command == "")
+            {
+                Console.WriteLine("Restart or exit: ");
+                row = Console.ReadLine();
+                row = row.ToLower();
+            }
+            else
+            {
+                row = command;
+            }
             if (row == "exit")
             {
                 Environment.Exit(0);
